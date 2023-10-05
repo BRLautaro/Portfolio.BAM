@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* Background color: orange; */
+
+
+}
+
+.box {
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+}
+
+.box p {
+    text-align: center;
+}
